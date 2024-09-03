@@ -1,4 +1,4 @@
-nombre1 = "Elisa"
+nombre1 = "Deivy"
 nombre2 = "Alfonso"
 
 saludo = f"Hola {nombre1} {nombre2}, ¿Cómo estas?"
